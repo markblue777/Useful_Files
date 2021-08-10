@@ -1,0 +1,260 @@
+name,iso2,iso3,countrySubIso,regionId,latAvg,longAvg
+Afghanistan,AF,AFG,NULL,4,33,65
+Albania,AL,ALB,NULL,5,41,20
+Algeria,DZ,DZA,NULL,2,28,3
+American Samoa,AS,ASM,NULL,6,-14.3333,-170
+Andorra,AD,AND,NULL,5,42.5,1.6
+Angola,AO,AGO,NULL,2,-12.5,18.5
+Anguilla,AI,AIA,NULL,3,18.25,-63.1667
+Antigua and Barbuda,AG,ATG,NULL,3,17.05,-61.8
+Argentina,AR,ARG,NULL,3,-34,-64
+Armenia,AM,ARM,NULL,4,40,45
+Aruba,AW,ABW,NULL,3,12.5,-69.9667
+Australia,AU,AUS,NULL,6,-27,133
+Austria,AT,AUT,NULL,5,47.3333,13.3333
+Azerbaijan,AZ,AZE,NULL,4,40.5,47.5
+Bahamas,BS,BHS,NULL,3,24.25,-76
+Bahrain,BH,BHR,NULL,4,26,50.55
+Bangladesh,BD,BGD,NULL,4,24,90
+Barbados,BB,BRB,NULL,3,13.1667,-59.5333
+Belarus,BY,BLR,NULL,5,53,28
+Belgium,BE,BEL,NULL,5,50.8333,4
+Belize,BZ,BLZ,NULL,3,17.25,-88.75
+Benin,BJ,BEN,NULL,2,9.5,2.25
+Bermuda,BM,BMU,NULL,3,32.3333,-64.75
+Bhutan,BT,BTN,NULL,4,27.5,90.5
+"Bolivia, Plurinational State of",BO,BOL,NULL,3,-17,-65
+Bolivia,BO,BOL,NULL,3,-17,-65
+Bosnia and Herzegovina,BA,BIH,NULL,5,44,18
+Botswana,BW,BWA,NULL,2,-22,24
+Bouvet Island,BV,BVT,NULL,3,-54.4333,3.4
+Brazil,BR,BRA,NULL,3,-10,-55
+British Indian Ocean Territory,IO,IOT,NULL,2,-6,71.5
+Brunei Darussalam,BN,BRN,NULL,4,4.5,114.6667
+Brunei,BN,BRN,NULL,4,4.5,114.6667
+Bulgaria,BG,BGR,NULL,5,43,25
+Burkina Faso,BF,BFA,NULL,2,13,-2
+Burundi,BI,BDI,NULL,2,-3.5,30
+Cambodia,KH,KHM,NULL,4,13,105
+Cameroon,CM,CMR,NULL,2,6,12
+Canada,CA,CAN,NULL,3,60,-95
+Cape Verde,CV,CPV,NULL,2,16,-24
+Cayman Islands,KY,CYM,NULL,3,19.5,-80.5
+Central African Republic,CF,CAF,NULL,2,7,21
+Chad,TD,TCD,NULL,2,15,19
+Chile,CL,CHL,NULL,3,-30,-71
+China,CN,CHN,NULL,4,35,105
+Christmas Island,CX,CXR,NULL,6,-10.5,105.6667
+Cocos (Keeling) Islands,CC,CCK,NULL,6,-12.5,96.8333
+Colombia,CO,COL,NULL,3,4,-72
+Comoros,KM,COM,NULL,2,-12.1667,44.25
+Congo,CG,COG,NULL,2,-1,15
+"Congo, the Democratic Republic of the",CD,COD,NULL,2,0,25
+Cook Islands,CK,COK,NULL,6,-21.2333,-159.7667
+Costa Rica,CR,CRI,NULL,3,10,-84
+Côte d'Ivoire,CI,CIV,NULL,2,8,-5
+Ivory Coast,CI,CIV,NULL,2,8,-5
+Croatia,HR,HRV,NULL,5,45.1667,15.5
+Cuba,CU,CUB,NULL,3,21.5,-80
+Cyprus,CY,CYP,NULL,4,35,33
+Czech Republic,CZ,CZE,NULL,5,49.75,15.5
+Denmark,DK,DNK,NULL,5,56,10
+Djibouti,DJ,DJI,NULL,2,11.5,43
+Dominica,DM,DMA,NULL,3,15.4167,-61.3333
+Dominican Republic,DO,DOM,NULL,3,19,-70.6667
+Ecuador,EC,ECU,NULL,3,-2,-77.5
+Egypt,EG,EGY,NULL,2,27,30
+El Salvador,SV,SLV,NULL,3,13.8333,-88.9167
+Equatorial Guinea,GQ,GNQ,NULL,2,2,10
+Eritrea,ER,ERI,NULL,2,15,39
+Estonia,EE,EST,NULL,5,59,26
+Ethiopia,ET,ETH,NULL,2,8,38
+Falkland Islands (Malvinas),FK,FLK,NULL,3,-51.75,-59
+Faroe Islands,FO,FRO,NULL,5,62,-7
+Fiji,FJ,FJI,NULL,6,-18,175
+Finland,FI,FIN,NULL,5,64,26
+France,FR,FRA,NULL,5,46,2
+French Guiana,GF,GUF,NULL,3,4,-53
+French Polynesia,PF,PYF,NULL,6,-15,-140
+French Southern Territories,TF,ATF,NULL,2,-43,67
+Gabon,GA,GAB,NULL,2,-1,11.75
+Gambia,GM,GMB,NULL,2,13.4667,-16.5667
+Georgia,GE,GEO,NULL,4,42,43.5
+Germany,DE,DEU,NULL,5,51,9
+Ghana,GH,GHA,NULL,2,8,-2
+Gibraltar,GI,GIB,NULL,5,36.1833,-5.3667
+Greece,GR,GRC,NULL,5,39,22
+Greenland,GL,GRL,NULL,3,72,-40
+Grenada,GD,GRD,NULL,3,12.1167,-61.6667
+Guadeloupe,GP,GLP,NULL,3,16.25,-61.5833
+Guam,GU,GUM,NULL,6,13.4667,144.7833
+Guatemala,GT,GTM,NULL,3,15.5,-90.25
+Guernsey,GG,GGY,NULL,5,49.5,-2.56
+Guinea,GN,GIN,NULL,2,11,-10
+Guinea-Bissau,GW,GNB,NULL,2,12,-15
+Guyana,GY,GUY,NULL,3,5,-59
+Haiti,HT,HTI,NULL,3,19,-72.4167
+Heard Island and McDonald Islands,HM,HMD,NULL,6,-53.1,72.5167
+Holy See (Vatican City State),VA,VAT,NULL,5,41.9,12.45
+Honduras,HN,HND,NULL,3,15,-86.5
+Hong Kong,HK,HKG,NULL,4,22.25,114.1667
+Hungary,HU,HUN,NULL,5,47,20
+Iceland,IS,ISL,NULL,5,65,-18
+India,IN,IND,NULL,4,20,77
+Indonesia,ID,IDN,NULL,4,-5,120
+"Iran, Islamic Republic of",IR,IRN,NULL,4,32,53
+Iraq,IQ,IRQ,NULL,4,33,44
+Ireland,IE,IRL,NULL,5,53,-8
+Isle of Man,IM,IMN,NULL,5,54.23,-4.55
+Israel,IL,ISR,NULL,4,31.5,34.75
+Italy,IT,ITA,NULL,5,42.8333,12.8333
+Jamaica,JM,JAM,NULL,3,18.25,-77.5
+Japan,JP,JPN,NULL,4,36,138
+Jersey,JE,JEY,NULL,5,49.21,-2.13
+Jordan,JO,JOR,NULL,4,31,36
+Kazakhstan,KZ,KAZ,NULL,4,48,68
+Kenya,KE,KEN,NULL,2,1,38
+Kiribati,KI,KIR,NULL,6,1.4167,173
+"Korea, Democratic People's Republic of",KP,PRK,NULL,4,40,127
+"Korea, Republic of",KR,KOR,NULL,4,37,127.5
+South Korea,KR,KOR,NULL,4,37,127.5
+Kuwait,KW,KWT,NULL,4,29.3375,47.6581
+Kyrgyzstan,KG,KGZ,NULL,4,41,75
+Lao People's Democratic Republic,LA,LAO,NULL,4,18,105
+Latvia,LV,LVA,NULL,5,57,25
+Lebanon,LB,LBN,NULL,4,33.8333,35.8333
+Lesotho,LS,LSO,NULL,2,-29.5,28.5
+Liberia,LR,LBR,NULL,2,6.5,-9.5
+Libyan Arab Jamahiriya,LY,LBY,NULL,2,25,17
+Libya,LY,LBY,NULL,2,25,17
+Liechtenstein,LI,LIE,NULL,5,47.1667,9.5333
+Lithuania,LT,LTU,NULL,5,56,24
+Luxembourg,LU,LUX,NULL,5,49.75,6.1667
+Macao,MO,MAC,NULL,4,22.1667,113.55
+"Macedonia, the former Yugoslav Republic of",MK,MKD,NULL,5,41.8333,22
+Madagascar,MG,MDG,NULL,2,-20,47
+Malawi,MW,MWI,NULL,2,-13.5,34
+Malaysia,MY,MYS,NULL,4,2.5,112.5
+Maldives,MV,MDV,NULL,4,3.25,73
+Mali,ML,MLI,NULL,2,17,-4
+Malta,MT,MLT,NULL,5,35.8333,14.5833
+Marshall Islands,MH,MHL,NULL,6,9,168
+Martinique,MQ,MTQ,NULL,3,14.6667,-61
+Mauritania,MR,MRT,NULL,2,20,-12
+Mauritius,MU,MUS,NULL,2,-20.2833,57.55
+Mayotte,YT,MYT,NULL,2,-12.8333,45.1667
+Mexico,MX,MEX,NULL,3,23,-102
+"Micronesia, Federated States of",FM,FSM,NULL,6,6.9167,158.25
+"Moldova, Republic of",MD,MDA,NULL,5,47,29
+Monaco,MC,MCO,NULL,5,43.7333,7.4
+Mongolia,MN,MNG,NULL,4,46,105
+Montenegro,ME,MNE,NULL,5,42,19
+Montserrat,MS,MSR,NULL,3,16.75,-62.2
+Morocco,MA,MAR,NULL,2,32,-5
+Mozambique,MZ,MOZ,NULL,2,-18.25,35
+Myanmar,MM,MMR,NULL,4,22,98
+Burma,MM,MMR,NULL,4,22,98
+Namibia,NA,NAM,NULL,2,-22,17
+Nauru,NR,NRU,NULL,6,-0.5333,166.9167
+Nepal,NP,NPL,NULL,4,28,84
+Netherlands,NL,NLD,NULL,5,52.5,5.75
+New Caledonia,NC,NCL,NULL,6,-21.5,165.5
+New Zealand,NZ,NZL,NULL,6,-41,174
+Nicaragua,NI,NIC,NULL,3,13,-85
+Niger,NE,NER,NULL,2,16,8
+Nigeria,NG,NGA,NULL,2,10,8
+Niue,NU,NIU,NULL,6,-19.0333,-169.8667
+Norfolk Island,NF,NFK,NULL,6,-29.0333,167.95
+Northern Mariana Islands,MP,MNP,NULL,6,15.2,145.75
+Norway,NO,NOR,NULL,5,62,10
+Oman,OM,OMN,NULL,4,21,57
+Pakistan,PK,PAK,NULL,4,30,70
+Palau,PW,PLW,NULL,6,7.5,134.5
+"Palestinian Territory, Occupied",PS,PSE,NULL,4,32,35.25
+Panama,PA,PAN,NULL,3,9,-80
+Papua New Guinea,PG,PNG,NULL,6,-6,147
+Paraguay,PY,PRY,NULL,3,-23,-58
+Peru,PE,PER,NULL,3,-10,-76
+Philippines,PH,PHL,NULL,4,13,122
+Pitcairn,PN,PCN,NULL,6,-24.7,-127.4
+Poland,PL,POL,NULL,5,52,20
+Portugal,PT,PRT,NULL,5,39.5,-8
+Puerto Rico,PR,PRI,NULL,3,18.25,-66.5
+Qatar,QA,QAT,NULL,4,25.5,51.25
+Réunion,RE,REU,NULL,2,-21.1,55.6
+Romania,RO,ROU,NULL,5,46,25
+Russian Federation,RU,RUS,NULL,5,60,100
+Russia,RU,RUS,NULL,5,60,100
+Rwanda,RW,RWA,NULL,2,-2,30
+"Saint Helena, Ascension and Tristan da Cunha",SH,SHN,NULL,2,-15.9333,-5.7
+Saint Kitts and Nevis,KN,KNA,NULL,3,17.3333,-62.75
+Saint Lucia,LC,LCA,NULL,3,13.8833,-61.1333
+Saint Pierre and Miquelon,PM,SPM,NULL,3,46.8333,-56.3333
+Saint Vincent and the Grenadines,VC,VCT,NULL,3,13.25,-61.2
+Saint Vincent & the Grenadines,VC,VCT,NULL,3,13.25,-61.2
+St. Vincent and the Grenadines,VC,VCT,NULL,3,13.25,-61.2
+Samoa,WS,WSM,NULL,6,-13.5833,-172.3333
+San Marino,SM,SMR,NULL,5,43.7667,12.4167
+Sao Tome and Principe,ST,STP,NULL,2,1,7
+Saudi Arabia,SA,SAU,NULL,4,25,45
+Senegal,SN,SEN,NULL,2,14,-14
+Serbia,RS,SRB,NULL,5,44,21
+Seychelles,SC,SYC,NULL,2,-4.5833,55.6667
+Sierra Leone,SL,SLE,NULL,2,8.5,-11.5
+Singapore,SG,SGP,NULL,4,1.3667,103.8
+Slovakia,SK,SVK,NULL,5,48.6667,19.5
+Slovenia,SI,SVN,NULL,5,46,15
+Solomon Islands,SB,SLB,NULL,6,-8,159
+Somalia,SO,SOM,NULL,2,10,49
+South Africa,ZA,ZAF,NULL,2,-29,24
+South Georgia and the South Sandwich Islands,GS,SGS,NULL,3,-54.5,-37
+South Sudan,SS,SSD,NULL,2,8,30
+Spain,ES,ESP,NULL,5,40,-4
+Sri Lanka,LK,LKA,NULL,4,7,81
+Sudan,SD,SDN,NULL,2,15,30
+Suriname,SR,SUR,NULL,3,4,-56
+Svalbard and Jan Mayen,SJ,SJM,NULL,5,78,20
+Swaziland,SZ,SWZ,NULL,2,-26.5,31.5
+Sweden,SE,SWE,NULL,5,62,15
+Switzerland,CH,CHE,NULL,5,47,8
+Syrian Arab Republic,SY,SYR,NULL,4,35,38
+"Taiwan, Province of China",TW,TWN,NULL,4,23.5,121
+Taiwan,TW,TWN,NULL,4,23.5,121
+Tajikistan,TJ,TJK,NULL,4,39,71
+"Tanzania, United Republic of",TZ,TZA,NULL,2,-6,35
+Thailand,TH,THA,NULL,4,15,100
+Timor-Leste,TL,TLS,NULL,4,-8.55,125.5167
+Togo,TG,TGO,NULL,2,8,1.1667
+Tokelau,TK,TKL,NULL,6,-9,-172
+Tonga,TO,TON,NULL,6,-20,-175
+Trinidad and Tobago,TT,TTO,NULL,3,11,-61
+Tunisia,TN,TUN,NULL,2,34,9
+Turkey,TR,TUR,NULL,4,39,35
+Turkmenistan,TM,TKM,NULL,4,40,60
+Turks and Caicos Islands,TC,TCA,NULL,3,21.75,-71.5833
+Tuvalu,TV,TUV,NULL,6,-8,178
+Uganda,UG,UGA,NULL,2,1,32
+Ukraine,UA,UKR,NULL,5,49,32
+United Arab Emirates,AE,ARE,NULL,4,24,54
+United Kingdom,GB,GBR,NULL,5,54,-2
+United States,US,USA,NULL,3,38,-97
+United States Minor Outlying Islands,UM,UMI,NULL,6,19.2833,166.6
+Uruguay,UY,URY,NULL,3,-33,-56
+Uzbekistan,UZ,UZB,NULL,4,41,64
+Vanuatu,VU,VUT,NULL,6,-16,167
+"Venezuela, Bolivarian Republic of",VE,VEN,NULL,3,8,-66
+Venezuela,VE,VEN,NULL,3,8,-66
+Viet Nam,VN,VNM,NULL,4,16,106
+Vietnam,VN,VNM,NULL,4,16,106
+"Virgin Islands, British",VG,VGB,NULL,3,18.5,-64.5
+"Virgin Islands, U.S.",VI,VIR,NULL,3,18.3333,-64.8333
+Wallis and Futuna,WF,WLF,NULL,6,-13.3,-176.2
+Western Sahara,EH,ESH,NULL,2,24.5,-13
+Yemen,YE,YEM,NULL,4,15,48
+Zambia,ZM,ZMB,NULL,2,-15,30
+Zimbabwe,ZW,ZWE,NULL,2,-20,30
+Wales,GB,GBR,GB-WLS,5,52.1307,-3.7837
+Scotland,GB,GBR,GB-SCT,5,56.8154,-4.1838
+England,GB,GBR,GB-ENG,5,52.3555,-1.1743
+Northern Ireland,GB,GBR,GB-NIR,5,54.7877,-6.4923
+Isle of Wight,GB,GBR,GB-IOW,5,50.6938,-1.3047
